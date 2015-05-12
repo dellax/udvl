@@ -33,6 +33,8 @@ Zadania:
 * [Cvičenie 7](cv07)
 * [Cvičenie 8](cv08)
 * [Cvičenie 9](cv09)
+* [Cvičenie 10](cv10)
+* [Cvičenie 11\*](cv11)
 
 Bonusy:
 * [Bonus 1](bonus01)
