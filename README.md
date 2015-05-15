@@ -46,6 +46,7 @@ Domáce úlohy
 
 * [DU 1](du01) (do Štvrtku 26.3. 13:10)
 * [DU 2](du02) (do Štvrtku 9.4. 13:10)
+* [DU 3](du03) (do Nedele 24.5. 23:59)
 
 Prednášky
 ---------
